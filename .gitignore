@@ -59,7 +59,7 @@ data/*.xls
 checkpoints/
 weights/
 artifacts/
-models/
+
 
 # ------------------------------------------------------------
 # Experiment outputs
