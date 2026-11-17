@@ -109,3 +109,18 @@ desktop.ini
 *.swp
 *.swo
 *~
+# ------------------------------------------------------------
+# Generated experiment data and row-level outputs
+# ------------------------------------------------------------
+experiments/*/results/*.csv
+experiments/*/results/*.json
+
+# Expanded dataset audit exports
+experiments/exp_021_expanded_dataset_audit/*.csv
+experiments/exp_021_expanded_dataset_audit/*.json
+
+# Local datasets
+*_1000_synthetic_v2*.csv
+*expanded_quality*.csv
+*revised_sample*.csv
+
